@@ -16,6 +16,8 @@ Orientasi dilaksanakan selama 3 bulan, sehingga mahasiswa perlu fokus untuk akti
 
 **Catatan:** Tidak perlu khawatir, orientasi ini bukanlah orientasi militer atau perploncoan. :) Orientasi ini bersahabat dan kita butuh fokus untuk mengikuti setiap orientasi karena sistem pembelajarannya bersifat online. :)
 
+Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diakses di sini: http://bit.do/materiorientasi2111. Yang saya lakukan saat ini adalah merangkum informasi orientasi yang saya peroleh dalam catatan pribadi yang saya buat di GitHub. Semoga bermanfaat.
+
 ### Panduan Aktivitas Harian Mahasiswa
 
 | Kegiatan                   | Senin              | Selasa             | Rabu               | Kamis              | Jum’at             | Sabtu              | Minggu             |
