@@ -77,7 +77,9 @@ iOS: https://apps.apple.com/id/app/binusmaya/id1499309793
 
 ### Gratis Lisensi Office 365
 
-Selama menjadi mahasiswa Binus, kita bisa mendapatkan lisensi gratis Office 365 dengan mengklik tautan ini: https://orientasionline.apps.binus.ac.id/Registration/Office365Registration. Buka situs https://orientasionline.apps.binus.ac.id > dari halaman utama (dashboard) klik menu > Registration > Office 365 Pro Plus.
+Selama menjadi mahasiswa Binus, kita bisa mendapatkan lisensi gratis Office 365 dengan mengklik tautan ini: https://orientasionline.apps.binus.ac.id/Registration/Office365Registration.
+
+Buka situs https://orientasionline.apps.binus.ac.id > dari halaman utama (dashboard) klik menu > Registration > Office 365 Pro Plus.
 
 
 ## Kuliah di Teknik Informatika Binus Online Learning
