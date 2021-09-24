@@ -12,6 +12,10 @@ Via Zoom: Diinformasikan saat orientasi.
 
 ## Orientasi
 
+Orientasi dilaksanakan selama 3 bulan, sehingga mahasiswa perlu fokus untuk aktif di situs https://orientasionline.apps.binus.ac.id agar tidak ketinggalan forum diskusi, pengumuman video conference dan kuis.
+
+**Catatan:** Tidak perlu khawatir, orientasi ini bukanlah orientasi militer atau perploncoan. :) Orientasi ini bersahabat dan kita butuh fokus untuk mengikuti setiap orientasi karena sistem pembelajarannya bersifat online. :)
+
 ### Panduan Aktivitas Harian Mahasiswa
 
 | Kegiatan                   | Senin              | Selasa             | Rabu               | Kamis              | Jum’at             | Sabtu              | Minggu             |
