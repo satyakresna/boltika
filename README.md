@@ -54,15 +54,16 @@ Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diak
 
 ### Graduate Development
 
-| Jenjang  | Orientasi | Pengalaman Internasional | Pengalaman Industri |
-|----------|-----------|--------------------------|---------------------|
-| SMA - S1 | 80 poin   | 30 poin                  | 20 poin             |
-| D3 - S1  | 50 poin   | 20 poin                  | 10 poin             |
+| Kegiatan                 | SMA - S1 | D3 - S1 |
+|--------------------------|----------|---------|
+| Orientasi                | 80 poin  | 50 poin |
+| Pengalaman Internasional | 30 poin  | 20 poin |
+| Pengalaman Industri      | 20 poin  | 10 poin |
 
 **Catatan:** 
 
 - Poin-poin untuk graduate development ini penting karena digunakan untuk mengajukan proposal skripsi.
-- Untuk mendapatkan sertifikat pengalaman internasional dan pengalaman industri dari kegiatan yang diadakan oleh Binus. Bisa di cek di tab **Events** yang ada di pojok kanan bawah di situs https://ol.binus.ac.id
+- Untuk mendapatkan sertifikat pengalaman internasional dan pengalaman industri dari kegiatan yang diadakan oleh Binus. Pengalaman internasional merupakan seminar internasional dan pengalaman industri adalah seminar dengan kategori industrial sharing. Silakan lihat tab **Events** yang ada di pojok kanan bawah di situs https://ol.binus.ac.id
 
 Poin orientasi diperoleh dari menjawab kuis orientasi yang ada di situs https://orientasionline.apps.binus.ac.id. Jika, mengabaikan atau lupa menjawab 1 kuis maka tidak bisa mendapatkan sertifikat orientasi yang bernilai sesuai dengan jenjang masing-masing.
 
