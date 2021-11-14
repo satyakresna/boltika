@@ -49,7 +49,21 @@ Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diak
 | Kuis                       | 15%   |
 | Ujian Akhir Semester       | 30%   |
 
-**Keaktifan forum diskusi minimal 2 kali posting di forum. Posting ini bisa seperti membuat pertanyaan atau menjawab pertanyaan di forum**.
+**Keaktifan forum diskusi minimal 2 kali posting di forum. Posting di forum berupa membuat pertanyaan atau menjawab pertanyaan di forum**.
+
+### Konversi Nilai
+
+| Nilai Alfabet | Berat | Skor     | Keterangan |
+|---------------|-------|----------|------------|
+| A             | 4     | 90 - 100 | Lulus      |
+| A-            | 3.67  | 85 - 89  | Lulus      |
+| B+            | 3.33  | 80 - 84  | Lulus      |
+| B             | 3     | 75 - 79  | Lulus      |
+| B-            | 2.5   | 70 - 74  | Lulus      |
+| C             | 2     | 65 - 69  | Lulus      |
+| D             | 1     | 50 - 64  | ?          |
+| E             | 0     | 0 - 49   | ?          |
+| F             | 0     | -        | ?          |
 
 
 ### Graduate Development
@@ -96,6 +110,25 @@ Buka situs https://orientasionline.apps.binus.ac.id > dari halaman utama (dashbo
 
 1 semester terdiri dari 2 periode. 1 periode = 3 bulan. Umumnya, setiap periode terdiri dari 2 sampai 3 matakuliah.
 
+
+### Model Pembelajaran
+
+<img width="952" alt="Gambar Model Pembelajaran Binus Online Learning" src="https://user-images.githubusercontent.com/11099186/141665670-2b6f0031-c28d-42ce-965d-c99bbea1cf67.png">
+
+### Matakuliah Pengawasan Mutu
+
+Artinya **matakuliah-matakuliah di bawah ini wajib memenuhi nilai minimal** yang ditentukan oleh Teknik Informatika Binus Online Learning.
+
+| Mata Kuliah                  | Nilai Minimal |
+|------------------------------|---------------|
+| Character Building Pancasila | B             |
+| Entrepreneurship             | C             |
+| Algorithm Programming        | C             |
+| Program Design Methods       | C             |
+| Software Engineering         | C             |
+| Operating System             | C             |
+| Data Structures              | C             |
+| Database Technology          | C             |
 
 ### Matakuliah Teknik Informatika
 
