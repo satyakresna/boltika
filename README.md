@@ -16,7 +16,7 @@ Orientasi dilaksanakan selama 3 bulan, sehingga mahasiswa perlu fokus untuk akti
 
 **Catatan:** Tidak perlu khawatir, orientasi ini bukanlah orientasi militer atau perploncoan. :) Orientasi ini bersahabat dan kita butuh fokus untuk mengikuti setiap orientasi karena sistem pembelajarannya bersifat online. :)
 
-Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diakses di sini: http://bit.do/materiorientasi2111. Yang saya lakukan saat ini adalah merangkum informasi orientasi yang saya peroleh dalam catatan pribadi yang saya buat di GitHub. Semoga bermanfaat.
+Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diakses di sini: http://bit.do/materiorientasi2111.
 
 ### Panduan Aktivitas Harian Mahasiswa
 
@@ -35,7 +35,7 @@ Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diak
 - 10 pertemuan online seperti self learning, kuis, forum diskusi, kuis, tugas.
 - Ujian dilaksanakan pada minggu kesebelas.
 
-**Catatan:** Video conference dilaksanakan menggunakan platform [Zoom Meeting](https://zoom.us) dengan menggunakan email binus mahasiswa. Format nama saat masuk meeting adalah: NIM - Nama Mahasiswa. Tujuannya adalah agar mempermudah absensi.
+**Catatan:** Video conference dilaksanakan menggunakan platform [Zoom Meeting](https://zoom.us) dengan menggunakan email binus mahasiswa. Format nama saat masuk meeting adalah: NIM - Nama Mahasiswa dengan tujuan mempermudah absensi.
 
 
 ### Nilai untuk setiap mata kuliah
@@ -77,11 +77,11 @@ Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diak
 **Catatan:** 
 
 - Poin-poin untuk graduate development ini penting karena digunakan untuk mengajukan proposal skripsi.
-- Untuk mendapatkan sertifikat pengalaman internasional dan pengalaman industri dari kegiatan yang diadakan oleh Binus. Pengalaman internasional merupakan seminar internasional dan pengalaman industri adalah seminar dengan kategori industrial sharing. Silakan lihat tab **Events** yang ada di pojok kanan bawah di situs https://ol.binus.ac.id
+- Sertifikat pengalaman internasional dan pengalaman industri yang diakui hanya dari kegiatan yang diadakan oleh Binus. Pengalaman internasional merupakan seminar internasional dan pengalaman industri adalah seminar dengan kategori industrial sharing. Silakan lihat tab **Events** yang ada di pojok kanan bawah di situs https://ol.binus.ac.id
 
 Poin orientasi diperoleh dari menjawab kuis orientasi yang ada di situs https://orientasionline.apps.binus.ac.id. Jika, mengabaikan atau lupa menjawab 1 kuis maka tidak bisa mendapatkan sertifikat orientasi yang bernilai sesuai dengan jenjang masing-masing.
 
-Solusi yang bisa ditawarkan jika tidak mendapat sertifikat orientasi adalah mengikuti seminar pengalaman internasional yang diakui dan diadakan oleh Binus sesuai dengan jumlah poin orientasi jenjang masing-masing.
+Solusi jika tidak mendapat sertifikat orientasi adalah mengikuti seminar pengalaman internasional yang diakui dan diadakan oleh Binus sesuai dengan jumlah poin orientasi jenjang masing-masing.
 
 Misal: saya adalah mahasiswa dari jenjang D3 ke S1 dan tidak dapat sertifikat orientasi, maka saya kehilangan 50 poin. Sehingga saya perlu mengikuti minimal 5 seminar internasional yang diakui dan diadakan oleh Binus. 1 seminar internasional bernilai 10 poin.
 
@@ -132,3 +132,4 @@ Artinya **matakuliah-matakuliah di bawah ini wajib memenuhi nilai minimal** yang
 
 ### Matakuliah Teknik Informatika
 
+TBA.
