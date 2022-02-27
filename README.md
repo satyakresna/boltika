@@ -115,9 +115,53 @@ Buka situs https://orientasionline.apps.binus.ac.id > dari halaman utama (dashbo
 
 <img width="952" alt="Gambar Model Pembelajaran Binus Online Learning" src="https://user-images.githubusercontent.com/11099186/141665670-2b6f0031-c28d-42ce-965d-c99bbea1cf67.png">
 
+### Matakuliah Teknik Informatika
+
+#### Semester 1
+
+| Mata Kuliah                             | Nilai Minimum | Periode |
+|-----------------------------------------|---------------|---------|
+| Algorithm and Programming               | C             | 1       |
+| Discrete Mathematics and Linear Algebra | D             | 1       |
+| Algorithm Design and Analysis           | D             | 2       |
+| Character Building Pancasila            | B             | 2       |
+| Program Design Methods                  | C             | 2       |
+
+#### Semester 2
+
+| Mata Kuliah         | Nilai Minimum | Periode |
+|---------------------|---------------|---------|
+| Computer Networks   | D             | 1       |
+| Database Technology | C             | 1       |
+| Entrepreneurship    | C             | 1       |
+| Data Structures     | C             | 2       |
+| Operating System    | C             | 2       |
+
+#### Semester 3
+
+| Mata Kuliah                     | Nilai Minimum | Periode |
+|---------------------------------|---------------|---------|
+| Indonesian                      | D             | 1       |
+| Industrial Feasibility Analysis | D             | 1       |
+| Digital Marketing for Manager   | D             | 2       |
+| ???                             | ???           | 2       |
+| ???                             | ???           | 2       |
+
+> Catatan: arti `???` adalah mata kuliah yang kita pilih dari daftar mata kuliah yang disediakan oleh Binus.
+
+#### Semester 4
+
+| Mata Kuliah                              | Nilai Minimum | Periode |
+|------------------------------------------|---------------|---------|
+| Research Methodology in Computer Science | D             | 1       |
+| Software Engineering                     | C             | 1       |
+| Thesis                                   | C             | 1       |
+| Character Building: Kewarganegaraan      | D             | 2       |
+| Thesis                                   | C             | 2       |
+
 ### Matakuliah Pengawasan Mutu
 
-Artinya **matakuliah-matakuliah di bawah ini wajib memenuhi nilai minimal** yang ditentukan oleh Teknik Informatika Binus Online Learning.
+Daftar mata kuliah yang wajib memenuhi nilai minimal yang ditentukan oleh Teknik Informatika Binus Online Learning.
 
 | Mata Kuliah                  | Nilai Minimal |
 |------------------------------|---------------|
@@ -129,7 +173,3 @@ Artinya **matakuliah-matakuliah di bawah ini wajib memenuhi nilai minimal** yang
 | Operating System             | C             |
 | Data Structures              | C             |
 | Database Technology          | C             |
-
-### Matakuliah Teknik Informatika
-
-TBA.
