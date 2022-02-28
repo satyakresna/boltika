@@ -2,6 +2,19 @@
 
 Catatan Pribadi selama kuliah di Binus Online Learning dari D3 ke S1 Jurusan Teknik Informatika.
 
+## Persiapan
+
+Mengikuti Tes Potensi Keberhasilan Studi. Silakan berlangganan jadwal tes di situs [jadwalbinusonline](https://jadwalbinusonline.vercel.app).
+
+Kisi-kisi materi:
+
+- Tes kejujuran (?)
+- Logika Penalaran
+- Matematika (Deret Aritmatika, Deret Geometri, Persamaan Linear Dua Variabel, Bangun Ruang)
+- Bahasa Indonesia (Kata serapan, kata baku)
+
+Total soal 40 soal dengan pilihan ganda. Biaya tes 250 ribu tidak termasuk biaya materai dan biaya berkas-berkas persyaratan.
+
 ## Kontak Layanan Binus Online
 
 Via email: binus_online@binus.edu
