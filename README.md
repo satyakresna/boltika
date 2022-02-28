@@ -20,13 +20,13 @@ Semua materi orientasi yang saya ikuti pada tanggal 6 - 7 Agustus 2021 bisa diak
 
 ### Panduan Aktivitas Harian Mahasiswa
 
-| Kegiatan                   | Senin              | Selasa             | Rabu               | Kamis              | Jum’at             | Sabtu              | Minggu             |
-|----------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| Mempelajari  Materi Kuliah | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |                    |
-| Aktif Forum Diskusi        |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    |
-| Mengerjakan Tugas          |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Mengumpulkan Tugas         |                    |                    |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Mengikuti Kuis             |                    |                    |                    | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| Kegiatan                  | Senin | Selasa | Rabu | Kamis | Jum'at | Sabtu | Minggu |
+|---------------------------|-------|--------|------|-------|--------|-------|--------|
+| Mempelajari Materi Kuliah | ✅     | ✅      | ✅    | ✅     | ✅      |       |        |
+| Aktif Forum Diskusi       |       | ✅      | ✅    | ✅     | ✅      | ✅     |        |
+| Mengerjakan Tugas         |       |        | ✅    | ✅     | ✅      | ✅     | ✅      |
+| Mengumpulkan Tugas        |       |        |      |       | ✅      | ✅     | ✅      |
+| Mengikuti Kuis            |       |        |      | ✅     | ✅      | ✅     | ✅      |
 
 
 ### Metode Pembelajaran Binus Online Learning
